@@ -1,0 +1,3 @@
+C:/Users/Administrador/CLionProjects/carrera_ejde1ro/cmake-build-debug/CMakeFiles/carrera_ejde1ro.dir
+C:/Users/Administrador/CLionProjects/carrera_ejde1ro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrador/CLionProjects/carrera_ejde1ro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
